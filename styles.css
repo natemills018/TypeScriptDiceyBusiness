@@ -1,0 +1,18 @@
+
+
+.Dice {
+    
+    width: 100px;
+    height: 100px;
+    font-weight: 300;
+    margin: 1em;
+    font-size: 50px;
+    
+}
+
+#container {
+    
+    margin: auto;
+    width: 600px;
+    height: 600px;
+} 
